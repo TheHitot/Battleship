@@ -1,2 +1,2 @@
 # Battleship
-First even solo gameproject
+First ever programming project
